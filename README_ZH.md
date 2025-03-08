@@ -62,11 +62,11 @@ int main() {
 }
 ```
 
-| Function | Usage |
+| 函数 | 用途 |
 |---|---|
-| ImageDrawPointEx		| Draw a point to the image |
-| ImageDrawArcEx		| Draw an ellipse arc to the image, using the provided line width and color |
-| ImageDrawLineEx		| Draw a line to the image, using the provided line width and color |
+| ImageDrawPointEx		| 在图像上绘制点 |
+| ImageDrawArcEx		| 使用提供的线宽和颜色，在图像上绘制椭圆弧 |
+| ImageDrawLineEx		| 使用提供的线宽和颜色在图像上画一条线 |
 | ImageDrawPolylineEx	| Draw a polyline to the image, using the provided line width and color |
 | ImageDrawRectangleEx  | Draw a rectangle's outline to the image, using the provided line width and color |
 | ImageDrawRoundRectEx  | Draw a rounded rectangle's outline to the image, using the provided line width and color |
