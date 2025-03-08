@@ -1,17 +1,17 @@
 # raylib-drawing
-[简体中文](README_ZH.md)
+[English](README.md)
 
-raylib is a simple and easy-to-use game library, yet it lacks 2d drawing functions. raylib-drawing provides the functions that raylib lacks.
+raylib是一个简单易用的游戏库，但它缺乏2D绘图功能。raylib-drawing提供了raylib所缺乏的功能。
 
-raylib-drawing is composed of two sub libraries:
- - rdrawing.h 2d drawing library
- - rturtle.h turtle graphics library
+raylib-drawing由两个子库组成：
+ - rdrawing.h 2D绘图库
+ - rturtle.h 海龟图形库
  
 ## rdrawing.h
 
-rdrawing.h provides many color definitions and basic 2d drawing functions:
+rdrawing.h提供了许多颜色定义和基本的2D绘图功能：
 
-The following program draw and fill a polygon interactively.
+下面的程序以交互方式绘制和填充多边形。
 ```
 #include "../src/rdrawing.h"
 #include <time.h>
