@@ -1,4 +1,5 @@
 # raylib-drawing
+[简体中文](README_ZH.md)
 
 raylib is a simple and easy-to-use game library, yet it lacks 2d drawing functions. raylib-drawing provides the functions that raylib lacks.
 
