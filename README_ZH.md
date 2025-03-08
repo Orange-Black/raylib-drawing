@@ -4,8 +4,8 @@
 raylib是一个简单易用的游戏库，但它缺乏2D绘图功能。raylib-drawing提供了raylib所缺乏的功能。
 
 raylib-drawing由两个子库组成：
- - rdrawing.h 2D绘图库
- - rturtle.h 海龟图形库
+ - `rdrawing.h` 2D绘图库
+ - `rturtle.h` 海龟图形库
  
 ## rdrawing.h
 
