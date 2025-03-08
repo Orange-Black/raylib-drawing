@@ -9,9 +9,9 @@ raylib-drawing由两个子库组成：
  
 ## rdrawing.h
 
-rdrawing.h提供了许多颜色定义和基本的2D绘图功能：
+`rdrawing.h`提供了许多颜色定义和基本的2D绘图功能：
 
-下面的程序以交互方式绘制和填充多边形。
+以下程序可交互式地绘制并填充多边形。
 ```
 #include "../src/rdrawing.h"
 #include <time.h>
