@@ -69,7 +69,7 @@ int main() {
 | ImageDrawLineEx		| 使用提供的线宽和颜色在图像上画一条线 |
 | ImageDrawPolylineEx	| 使用提供的线宽和颜色在图像上绘制折线。 |
 | ImageDrawRectangleEx  | 使用提供的线宽和颜色，在图像上绘制矩形轮廓 |
-| ImageDrawRoundRectEx  | Draw a rounded rectangle's outline to the image, using the provided line width and color |
+| ImageDrawRoundRectEx  | 使用提供的线宽和颜色，在图像上绘制圆角矩形轮廓 |
 | ImageDrawCircleEx		| Draw a circle's outline to the image, using the provided line width and color |
 | ImageDrawEllipseEx	| Draw an ellipse's outline to the image, using the provided line width and color |
 | ImageDrawPolygonEx    | Draw a polygon's outline to the image, using the provided line width and color |
